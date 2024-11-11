@@ -2,4 +2,4 @@ This repository presents a 5-stage pipeline CPU, developed based on *[D. Harris 
 
 For **HIT CS students**, please note that this CPU is compatible with Lab 1 and Lab 2 **only if** the test environment file `soc_top.v: line 538` is modified to enable asynchronous reading of instruction and data memory. I believe this modification is both necessary and practical.
 
-Contact me: ytong.song@outlook.com
+Contact me: yutong.s@outlook.com
